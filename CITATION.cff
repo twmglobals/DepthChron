@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use DepthChron, please cite it as below."
+type: software
+title: "DepthChron: age-depth modelling for mixed radiocarbon, luminescence and calendar ages"
+version: "1.1.0"
+date-released: "2026-11-23"
+authors:
+  - family-names: "Khan"
+    given-names: "Afzal"
+    orcid: "https://orcid.org/0000-0001-8844-122X"
+    affiliation: "Indian Institute of Technology Kanpur"
+keywords:
+  - age-depth model
+  - radiocarbon calibration
+  - Bayesian chronology
+  - Bacon
+  - OSL
+  - post-bomb radiocarbon
+  - marine reservoir correction
+  - accumulation rate
+  - event recurrence
+  - paleoseismology
+  - paleotsunami
+  - Quaternary geochronology
+license: CC-BY-ND-4.0
+doi: 10.5281/zenodo.24424596
+url: "https://doi.org/10.5281/zenodo.24424596"
+repository-code: "https://github.com/twmglobals/DepthChron"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24424596
+    description: "Concept DOI for all versions of DepthChron"

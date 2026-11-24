@@ -4,15 +4,15 @@
 
 **Age-depth modelling for sediment cores, in your web browser.**
 
-![DepthChron](https://storeassets.im-cdn.com/media-manager/1302352/f1a9db102f1e4296858ea338b9fd9ba9_DepthChron_Free_cover_1024.jpg)
+![DepthChron](https://storeassets.im-cdn.com/media-manager/1302352/4849f6647b39466da2313c011d3d7b88_DepthChron_Free_cover_1024.jpg)
 
 DepthChron is uniquely designed for ease of use: it needs no coding, runs offline in a browser, takes mixed methods in one table and writes the methods paragraph.
 
 ## Download
 | Edition | What it includes | Where |
 |---|---|---|
-| **DepthChron (Free)** v1.1.2 | Calibration, corrections, Bayesian and classical age-depth models, event layers, figures, tables, methods paragraph | [Zenodo](https://doi.org/10.5281/zenodo.24424596) · [TWM Global store](https://twmglobal.myinstamojo.com/product/depthchron) |
-| **DepthChron Pro** v1.1.2 | Everything in Free, plus model interpretation and event recurrence analysis | [TWM Global store](https://twmglobal.myinstamojo.com/product/depthchron-pro) |
+| **DepthChron (Free)** v1.1.3 | Calibration, corrections, Bayesian and classical age-depth models, event layers, figures, tables, methods paragraph | [Zenodo](https://doi.org/10.5281/zenodo.24424596) · [TWM Global store](https://twmglobal.myinstamojo.com/product/depthchron) |
+| **DepthChron Pro** v1.1.3 | Everything in Free, plus model interpretation and event recurrence analysis | [TWM Global store](https://twmglobal.myinstamojo.com/product/depthchron-pro) |
 
 DepthChron is a single HTML file: save it, open it in Chrome, Edge or Firefox, and start. No installation, no account and no internet connection are needed, and your data never leaves your computer.
 
@@ -28,6 +28,10 @@ DepthChron is a single HTML file: save it, open it in Chrome, Edge or Firefox, a
 - Interactive age-depth figure (hover for ages, drag to zoom, click a date for details), summary cards and a stratigraphic log column
 - Unlimited cores per project. Everything runs on your computer; no data leaves it.
 
+## New in 1.1.3
+- New first demo, Demo: all features: three simulated coastal cores (not real data) with mixed dates, event layers, a hiatus and an event horizon, so every step, including event ages and recurrence, shows results. The Lake Ulu demos are now Lake Ulu: short run and Lake Ulu: long run, and the Events step explains when a project has no event layers.
+- Models now run in a background worker, so a run keeps going when you switch to another tab or window. Lake Ulu results are identical to v1.1.2.
+
 ## New in 1.1.2
 - The demo is now the published Lake Ulu core (EN21103; data: Jia et al., 2024, CC BY 4.0) in two versions: Demo: short run (about 3 minutes) and Demo: long run (the full settings, about 20 minutes).
 
@@ -41,8 +45,8 @@ DepthChron is a single HTML file: save it, open it in Chrome, Edge or Firefox, a
 - DepthChron Pro (sold separately) adds model interpretation and event recurrence analysis; see below
 
 ## How to use
-1. Download DepthChron from Zenodo or the store, save DepthChron_v1.1.2.html anywhere and open it in Chrome, Edge or Firefox. No installation or internet connection is needed.
-2. Try the built-in demo, the published Lake Ulu core (EN21103; data: Jia et al., 2024, CC BY 4.0): Demo: short run takes about 3 minutes and Demo: long run (full settings) about 20 minutes. Then click New project.
+1. Download DepthChron from Zenodo or the store, save DepthChron_v1.1.3.html anywhere and open it in Chrome, Edge or Firefox. No installation or internet connection is needed.
+2. Try the built-in demos. Demo: all features (loaded first; three simulated coastal cores, not real data) runs in under a minute and shows every step, including event ages and recurrence. Lake Ulu: short run (about 3 minutes) and Lake Ulu: long run (full settings, about 20 minutes) load the published Lake Ulu core (EN21103; data: Jia et al., 2024, CC BY 4.0). Then click New project.
 3. Follow the seven steps: Project, Dates, Corrections, Calibrate, Model, Events, Export.
 
 The User Guide (PDF) explains each step, how to choose settings, and how to read the results.
@@ -51,7 +55,7 @@ The User Guide (PDF) explains each step, how to choose settings, and how to read
 - Calibration: CALIB 8.2 medians within 0–1 yr (IntCal20, SHCal20, Marine20, mixed curves)
 - Bayesian model: MSB2K (rbacon example) medians within 0.4–3.7 yr; 23 published Bacon chronologies from LegacyAge 1.0 (Li et al. 2022) reproduced with a typical median difference of about 16 yr
 - Simulated cores with known true ages: true age inside the 95% range at every depth on clean cores
-- Pro features: see DepthChron_v1.1.2_validation.zip on [Zenodo](https://doi.org/10.5281/zenodo.24424596) (25 simulated cores; Lake Ulu, Jia et al. 2024, Quaternary Science Reviews 331, 108650; 16 simulated event records)
+- Pro features: see DepthChron_v1.1.3_validation.zip on [Zenodo](https://doi.org/10.5281/zenodo.24424596) (25 simulated cores; Lake Ulu, Jia et al. 2024, Quaternary Science Reviews 331, 108650; 16 simulated event records)
 
 ## DepthChron Pro
 Model interpretation (accumulation zones, robust and tentative rate changes, hiatus durations, time resolution, where a new date helps most, a ready results paragraph, and checks of doubtful settings before every interpretation) and event recurrence analysis (intervals, mean recurrence, variability, and the chance of another event from Poisson and Brownian passage time models).
@@ -65,7 +69,7 @@ GitHub's **Cite this repository** button (right-hand panel) gives the same citat
 
 In text: Khan, A. (2026)
 
-Reference: Khan, A. (2026). DepthChron: age-depth modelling for mixed radiocarbon, luminescence and calendar ages, version 1.1.2 [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24424596
+Reference: Khan, A. (2026). DepthChron: age-depth modelling for mixed radiocarbon, luminescence and calendar ages, version 1.1.3 [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24424596
 
 Please also cite the calibration curves and methods you used; the methods paragraph on the Export step lists them.
 

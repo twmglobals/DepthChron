@@ -4,7 +4,7 @@
 
 **Age-depth modelling for sediment cores, in your web browser.**
 
-![DepthChron](https://storeassets.im-cdn.com/media-manager/1302352/ca8b0a4d90b341869e2e71818892fcfb_DepthChron_Free_cover_1024.jpg)
+![DepthChron](https://storeassets.im-cdn.com/media-manager/1302352/f1a9db102f1e4296858ea338b9fd9ba9_DepthChron_Free_cover_1024.jpg)
 
 DepthChron is uniquely designed for ease of use: it needs no coding, runs offline in a browser, takes mixed methods in one table and writes the methods paragraph.
 

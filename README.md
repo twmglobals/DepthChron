@@ -64,7 +64,7 @@ Model interpretation (accumulation zones, robust and tentative rate changes, hia
 
 [![DepthChron Pro, India (₹)](https://img.shields.io/badge/DepthChron%20Pro-India%20%28%E2%82%B9%29-e07b00?style=for-the-badge)](https://twmglobal.myinstamojo.com/product/depthchron-pro) [![DepthChron Pro, International ($)](https://img.shields.io/badge/DepthChron%20Pro-International%20%28%24%29-1f6feb?style=for-the-badge)](https://geomantle.com/depthchron)
 
-Questions or issues: open an [issue](../../issues) or write to twmglobals@gmail.com
+Questions or issues: open an [issue](../../issues) or write to support@geomantle.com
 
 ## How to cite
 GitHub's **Cite this repository** button (right-hand panel) gives the same citation in APA and BibTeX.

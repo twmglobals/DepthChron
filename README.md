@@ -11,8 +11,8 @@ DepthChron is uniquely designed for ease of use: it needs no coding, runs offlin
 ## Download
 | Edition | What it includes | Where |
 |---|---|---|
-| **DepthChron (Free)** v1.1.3 | Calibration, corrections, Bayesian and classical age-depth models, event layers, figures, tables, methods paragraph | [Zenodo](https://doi.org/10.5281/zenodo.24424596) · [TWM Global store](https://twmglobal.myinstamojo.com/product/depthchron) |
-| **DepthChron Pro** v1.1.3 | Everything in Free, plus model interpretation and event recurrence analysis | [TWM Global store](https://twmglobal.myinstamojo.com/product/depthchron-pro) |
+| **DepthChron (Free)** v1.1.3 | Calibration, corrections, Bayesian and classical age-depth models, event layers, figures, tables, methods paragraph | [Zenodo](https://doi.org/10.5281/zenodo.24424596) · [Store](https://twmglobal.myinstamojo.com/product/depthchron) |
+| **DepthChron Pro** v1.1.3 | Everything in Free, plus model interpretation and event recurrence analysis | [![DepthChron Pro, India (₹)](https://img.shields.io/badge/DepthChron%20Pro-India%20%28%E2%82%B9%29-e07b00?style=for-the-badge)](https://twmglobal.myinstamojo.com/product/depthchron-pro) [![DepthChron Pro, International ($)](https://img.shields.io/badge/DepthChron%20Pro-International%20%28%24%29-1f6feb?style=for-the-badge)](https://geomantle.com/depthchron) |
 
 DepthChron is a single HTML file: save it, open it in Chrome, Edge or Firefox, and start. No installation, no account and no internet connection are needed, and your data never leaves your computer.
 
@@ -60,7 +60,9 @@ The User Guide (PDF) explains each step, how to choose settings, and how to read
 ## DepthChron Pro
 Model interpretation (accumulation zones, robust and tentative rate changes, hiatus durations, time resolution, where a new date helps most, a ready results paragraph, and checks of doubtful settings before every interpretation) and event recurrence analysis (intervals, mean recurrence, variability, and the chance of another event from Poisson and Brownian passage time models).
 
-Free: https://twmglobal.myinstamojo.com/product/depthchron · Pro: https://twmglobal.myinstamojo.com/product/depthchron-pro
+**Get DepthChron Pro:**
+
+[![DepthChron Pro, India (₹)](https://img.shields.io/badge/DepthChron%20Pro-India%20%28%E2%82%B9%29-e07b00?style=for-the-badge)](https://twmglobal.myinstamojo.com/product/depthchron-pro) [![DepthChron Pro, International ($)](https://img.shields.io/badge/DepthChron%20Pro-International%20%28%24%29-1f6feb?style=for-the-badge)](https://geomantle.com/depthchron)
 
 Questions or issues: open an [issue](../../issues) or write to twmglobals@gmail.com
 
@@ -78,4 +80,4 @@ Results support, and do not replace, the judgment of a qualified specialist.
 ## Licence
 DepthChron is distributed under the Creative Commons Attribution-NoDerivatives 4.0 International licence (CC BY-ND 4.0); see [LICENSE.md](LICENSE.md).
 
-Afzal Khan (IIT Kanpur, ORCID [0000-0001-8844-122X](https://orcid.org/0000-0001-8844-122X)) · distributed by TWM Global · Developed by an IIT alumnus and GATE UPSC qualifier
+Afzal Khan (IIT Kanpur, ORCID [0000-0001-8844-122X](https://orcid.org/0000-0001-8844-122X)) · Developed by an IIT alumnus and GATE UPSC qualifier
